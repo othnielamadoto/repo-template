@@ -1,2 +1,1 @@
-# repo-template
-Template for software project management
+# agile-final-project
